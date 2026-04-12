@@ -6,8 +6,8 @@ pipeline {
     }
 
     environment {
-        IMAGE_NAME     = 'react-group1-app'
-        CONTAINER_NAME = 'react-group1-container'
+        IMAGE_NAME     = 'react-group3-app'
+        CONTAINER_NAME = 'react-group3-container'
         APP_PORT       = '3001'
     }
 
