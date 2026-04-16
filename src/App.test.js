@@ -13,7 +13,6 @@ test('renders all team members names', () => {
   expect(screen.getByText(/Marianna Rangel Antunes/i)).toBeInTheDocument();
   expect(screen.getByText(/Gunther Dos Santos/i)).toBeInTheDocument();
   expect(screen.getByText(/Daniela Souza Freire/i)).toBeInTheDocument();
-  expect(screen.getByText(/Bruno Alves Martins/i)).toBeInTheDocument();
 });
 
 test('renders Team Members heading', () => {

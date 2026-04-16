@@ -8,8 +8,7 @@ function App() {
     'Marianna Rangel Antunes',
     'Gunther Dos Santos',
     'Daniela Souza Freire',
-    'Bruno Alves Martins',
-  ];
+    ];
 
   return (
     <div className="App">
